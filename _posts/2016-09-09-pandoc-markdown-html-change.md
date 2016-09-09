@@ -1,4 +1,7 @@
-# pandocでMarkdown形式をHTMLに一発変換
+---
+layout: post
+title: pandocでMarkdown形式をHTMLに一発変換
+---
 
 ## pandocって？
 
