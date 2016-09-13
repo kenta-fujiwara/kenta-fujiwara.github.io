@@ -96,4 +96,4 @@ index.htmlを作成し、ブラウザで表示できるか確認する
 
 http://local.example.com
 
-![browser_check](https://github.com/kenta-fujiwara/kenta-fujiwara.github.io/blob/master/images/browser_check.png)
+[browser_check](https://github.com/kenta-fujiwara/kenta-fujiwara.github.io/blob/master/images/browser_check.png)
