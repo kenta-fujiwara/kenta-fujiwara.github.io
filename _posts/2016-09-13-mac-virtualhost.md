@@ -3,8 +3,6 @@ layout: post
 title: Macでバーチャルホストを構築してテスト環境
 ---
 
-# Macでバーチャルホストを構築してテスト環境
-
 ## httpd.confを編集
 
 Apache2のconfigを書き換えて、バーチャルホストを有効にする。
